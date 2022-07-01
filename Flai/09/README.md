@@ -20,7 +20,7 @@ Submissão: cada pessoa pode enviar até 10 submissões, respeitando a data limi
 - 5º: Voucher de R$60.
 - Melhor da Turma 9: Voucher de R$100
 
-![img/bike.jpg](bike)
+![](img/bike.jpg)
 
 
 
