@@ -22,6 +22,12 @@ Submissão: cada pessoa pode enviar até 10 submissões, respeitando a data limi
 
 ![](img/bike.jpg)
 
+## Análise dos dados 
+
+
+## Ranking Final 
+![](img/resultado.jpg) 
+
 
 
  
