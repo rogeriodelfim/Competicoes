@@ -24,7 +24,15 @@ Submissão: cada pessoa pode enviar até 10 submissões, respeitando a data limi
 
 ## Análise dos dados 
 
+![](img/01-NB.jpg) 
 
+
+![](img/02-NB.jpg) 
+
+## Análise univariada
+
+![](img/03-NB.jpg) 
+ 
 
 ![](img/resultado.jpg) 
 
