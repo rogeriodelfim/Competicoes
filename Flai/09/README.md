@@ -42,6 +42,14 @@ Submissão: cada pessoa pode enviar até 10 submissões, respeitando a data limi
 
 ![](img/05-NB.jpg) 
 
+<div class="alert alert-block alert-info">
+<p style="color: black; font-family: Arial Black">NOTA:</p>
+
+A maioria das análise se encontram no note **01 - EDA.ipynb**.  
+
+</div>
+
+## Resultado
 
 ![](img/resultado.jpg) 
 
