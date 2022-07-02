@@ -27,12 +27,21 @@ Submissão: cada pessoa pode enviar até 10 submissões, respeitando a data limi
 ![](img/01-NB.jpg) 
 
 
+## Distribuição 
 ![](img/02-NB.jpg) 
+
 
 ## Análise univariada
 
 ![](img/03-NB.jpg) 
  
+
+## Análise multivariada
+
+![](img/04-NB.jpg) 
+
+![](img/05-NB.jpg) 
+
 
 ![](img/resultado.jpg) 
 
