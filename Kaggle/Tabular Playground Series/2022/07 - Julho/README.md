@@ -7,5 +7,8 @@ Neste desafio, você recebe um conjunto de dados em que cada linha pertence a um
 Foto acima por [Laura Rivera](https://unsplash.com/photos/ArH3dtoDQc0) no Unsplash 
 
 
+## Avaliação
+As submissões são avaliadas no [Adjusted Rand Index ](https://en.wikipedia.org/wiki/Rand_index) entre os rótulos de cluster de verdade dos dados e seus rótulos de cluster previstos.
 
+ 
  
