@@ -9,7 +9,6 @@ A empresa acaba de concluir um grande estudo de teste para diferentes protótipo
 
 Foto acima por [freestocks](https://unsplash.com/photos/ArH3dtoDQc0) no Unsplash.
 
-
 ## Avaliação
 
 As submissões são avaliadas na área sob a [curva ROC](http://en.wikipedia.org/wiki/Receiver_operating_characteristic) entre a probabilidade prevista e o alvo observado.
