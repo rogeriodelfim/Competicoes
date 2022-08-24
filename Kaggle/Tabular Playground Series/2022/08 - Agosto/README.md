@@ -5,7 +5,7 @@ A edição de agosto de 2022 da Tabular Playground Series é uma oportunidade pa
 A empresa acaba de concluir um grande estudo de teste para diferentes protótipos de produtos. Você pode usar esses dados para construir um modelo que prevê falhas do produto? 
 
 
-![](img/My project.jpg)
+![](img/project.jpg)
 
 Foto acima por [freestocks](https://unsplash.com/photos/ArH3dtoDQc0) no Unsplash.
 
